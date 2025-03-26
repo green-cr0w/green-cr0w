@@ -8,6 +8,6 @@ I'm Green Crow – a passionate developer 🚀
 - 📫 Reach me in Discord with the username green_crow
 
 ## 📊 GitHub Stats  
-![Your GitHub stats]![My GitHub stats](https://github-readme-stats.vercel.app/api?username=green-cr0w&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=green-cr0w&show_icons=true&theme=radical)
 
 
