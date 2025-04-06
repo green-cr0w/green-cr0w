@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Green Crow
+## 👋 Hi, I'm Green Crow 🐦‍⬛
 
 A passionate creator, developer, and game design enthusiast.  
 Currently exploring new frontiers in interactive fiction and front-end design.  
@@ -24,12 +24,12 @@ Currently exploring new frontiers in interactive fiction and front-end design.
 - **[The Door (Choose Your Own Adventure Twine Game)](https://github.com/green-cr0w/The-door/)**  
   A text-based interactive fiction game created in Twine, filled with branching paths, decisions, and puzzles.  
   _[Completed – might contain a few bugs but fully functional]_  
-  [![GitHub Repository](https://img.shields.io/badge/repository-GitHub-blue)](https://github.com/green-cr0w/The-door/)
+  ![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue)
 
 - **[Text-Based Adventure Game](https://github.com/green-cr0w/httyd-text-game)**  
   A retro-inspired adventure with puzzle-solving and a dynamic world.  
   _[Coming soon – built with HTML, CSS, and TypeScript]_  
-  [![GitHub Repository](https://img.shields.io/badge/repository-GitHub-blue)](https://github.com/green-cr0w/httyd-text-game)
+  ![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue)
 
 ---
 
@@ -43,4 +43,4 @@ Currently exploring new frontiers in interactive fiction and front-end design.
 
 If you enjoy my projects and want to support my development journey:  
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M71CNT9W)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M71CNT9W)
