@@ -24,12 +24,10 @@ Currently exploring new frontiers in interactive fiction and front-end design.
 - **[The Door (Choose Your Own Adventure Twine Game)](https://github.com/green-cr0w/The-door/)**  
   A text-based interactive fiction game created in Twine, filled with branching paths, decisions, and puzzles.  
   _[Completed – might contain a few bugs but fully functional]_  
-  ![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue)
 
 - **[Text-Based Adventure Game](https://github.com/green-cr0w/httyd-text-game)**  
   A retro-inspired adventure with puzzle-solving and a dynamic world.  
   _[Coming soon – built with HTML, CSS, and TypeScript]_  
-  ![GitHub Repo](https://img.shields.io/badge/Repository-GitHub-blue)
 
 ---
 
